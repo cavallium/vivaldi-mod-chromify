@@ -1,0 +1,12 @@
+#tabs-container .sync-and-trash-container {
+    align-items: flex-start;
+}
+.vivaldi {
+	margin-top: 8px;
+}
+.tabs-at-edge .vivaldi {
+    margin-top: 5px;
+}
+#browser.win.win10.tabs-top #header #titlebar .window-buttongroup button:not(.vivaldi) {
+	height: 41px;
+}
