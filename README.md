@@ -8,7 +8,7 @@ Probably supported versions
 ![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-vivaldi-button.png)
 ![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-top-menu.png)
 ![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-dark-vivaldi-button.png)
-![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-dark-vivaldi-button.png)
+![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-dark-top-menu.png)
 
 ## Install
 - Open **vivaldi://experiments/**
