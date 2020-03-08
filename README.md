@@ -10,7 +10,7 @@ Probably supported versions: 2.0-2.10
 ![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-top-menu.png)
 ![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-dark-vivaldi-button.png)
 ![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-dark-menu.png)
-[Side-by-side difference](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bb23523c-6159-11ea-b9b8-0edaf8f81e27)
+[Side-by-side comparison betweeh "theme only" and "theme+css mod"](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=bb23523c-6159-11ea-b9b8-0edaf8f81e27)
 
 ## Install
 - Open **vivaldi://experiments/**
