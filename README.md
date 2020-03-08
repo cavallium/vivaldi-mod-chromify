@@ -2,7 +2,7 @@
 Chrome theme for Vivaldi (CSS-Mod)
 
 ## Screenshots
-![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview.png)
+![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/new-preview2.png)
 ![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/new-preview.png)
 
 ## Install
