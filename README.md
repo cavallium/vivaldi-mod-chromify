@@ -5,9 +5,10 @@ Supported versions: 2.10, 2.11
 Probably supported versions
 
 ## Screenshots
-![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/new-preview2.png)
-![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/black.png)
-![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/new-preview.png)
+![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-vivaldi-button.png)
+![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-top-menu.png)
+![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-dark-vivaldi-button.png)
+![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-dark-vivaldi-button.png)
 
 ## Install
 - Open **vivaldi://experiments/**
