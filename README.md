@@ -16,7 +16,7 @@ Probably supported versions: 2.0-2.10
 - Tick **Allow for using CSS Modifications**
 - Go to **Tools > Settings > Appearance > Custom UI Modifications > \[Select folder...\]** and choose a folder to use for vivaldi mods.
 - Place **Chromify-mod.css** into vivaldi mods folder
-- Place **Chromify-mod-vivaldi-button.css** into vivaldi mods folder \(**Skip this test if you have enabled the top menu instead of the Vivaldi Button**, if you are not sure do this step\)
+- Place **Chromify-mod-vivaldi-button.css** into vivaldi mods folder \(**Skip this test if you have enabled the top menu instead of the Vivaldi Button**. If you are not sure, do this step\)
 - Restart the browser
 
 ## Uninstall
