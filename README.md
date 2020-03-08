@@ -13,6 +13,9 @@ Chrome theme for Vivaldi (CSS-Mod)
 - Place **Chromify-mod.css** in that folder
 - Restart the browser
 
+## Uninstall
+- Just delete **Chromify-mod.css** from the modifications folder
+
 ## Suggested additional settings
 ### Appearance settings
 - Status bar: choose "Status Info Overlay"
