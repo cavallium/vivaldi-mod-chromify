@@ -2,7 +2,8 @@
 Chrome theme for Vivaldi (CSS-Mod)
 
 Supported versions: 2.10, 2.11
-Probably supported versions
+
+Probably supported versions: 2.0-2.10
 
 ## Screenshots
 ![New tab](https://raw.githubusercontent.com/Cavallium/vivaldi-mod-chromify/master/screenshots/preview-vivaldi-button.png)
