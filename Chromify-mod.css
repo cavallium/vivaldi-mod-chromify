@@ -91,10 +91,14 @@ span > .tab-position > .tab:not(.tab-mini):not(.active):hover::after {
     background-color: var(--colorBg);
 }
 
+/**
+Uncomment this part to add a top dark-gray border in incognito mode
+
 .private#browser {
     padding-top: 10px !important;
     box-shadow: 0 20px 0 -10px #546E7A inset;
 }
+**/
 
 .button-tabbar.newtab {
     bottom: 5px !important;
