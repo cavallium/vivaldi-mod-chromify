@@ -27,12 +27,15 @@ Probably supported versions: 2.0-2.10
 ### Appearance settings
 - Status bar: choose "Status Info Overlay"
 ### Theme colors
+- Disable "Accent color from Active Page"
+- Disable "Transparent tabs"
+#### Colors for light theme
 - Background: #ffffff
 - Foreground: #3b3b3b
 - Highlight: #006ed7
 - Accent: #e2e6e9
-- Disable "Accent color from Active Page"
-- Disable "Transparent tabs"
+#### Colors for dark theme
+- Just choose the predefined "Dark" theme
 ### Start Page settings
 - Disable "Show Background Image"
 - Background Color: "custom" > choose white
