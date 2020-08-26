@@ -1,7 +1,7 @@
 # Chromify
 Chrome theme for Vivaldi (CSS-Mod)
 
-Supported versions: 2.10 to 3.2
+Supported versions: 2.10 to **3.2**
 
 Probably supported versions: 2.0-2.10
 
